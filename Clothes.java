@@ -34,4 +34,11 @@ public class Clothes{
 		this.color = color;
 	}
 
+	public int getPrize(){
+		return this.prize;
+	}
+	
+	public void setPrize(int prize){
+		this.prize = prize;
+	}
 }
